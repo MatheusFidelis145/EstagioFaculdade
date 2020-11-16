@@ -1,0 +1,20 @@
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\bin\Debug\Telas MCSystem.exe.config
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\bin\Debug\Telas MCSystem.exe
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\bin\Debug\Telas MCSystem.pdb
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.Properties.Resources.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.TelaBemVindo.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.view.ConsultaCliente.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.view.TelaAlteracaoCliente.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.TelaCadastro.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.TelaLogin.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas MCSystem.csproj.GenerateResource.cache
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas MCSystem.csproj.CoreCompileInputs.cache
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas MCSystem.exe
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas MCSystem.pdb
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas MCSystem.csprojAssemblyReference.cache
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.view.TelaAlteracaoFuncionario.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.view.TelaAlteracaoProdutos.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.view.ConsultaFuncionario.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.view.TelaConsultaProdutos.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.view.ConsultaFornecedor.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Debug\Telas_MCSystem.view.TelaAlteracaoFornecedor.resources

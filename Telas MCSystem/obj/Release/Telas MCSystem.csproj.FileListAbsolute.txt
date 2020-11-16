@@ -1,0 +1,13 @@
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\bin\Release\Telas MCSystem.exe.config
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\bin\Release\Telas MCSystem.exe
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\bin\Release\Telas MCSystem.pdb
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas_MCSystem.Properties.Resources.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas_MCSystem.TelaBemVindo.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas_MCSystem.view.ConsultaCliente.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas_MCSystem.view.TelaAlteracaoCliente.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas_MCSystem.TelaCadastro.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas_MCSystem.TelaLogin.resources
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas MCSystem.csproj.GenerateResource.cache
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas MCSystem.csproj.CoreCompileInputs.cache
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas MCSystem.exe
+C:\Users\mfide\source\repos\Telas MCSystem\Telas MCSystem\obj\Release\Telas MCSystem.pdb
